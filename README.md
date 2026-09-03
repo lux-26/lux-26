@@ -7,7 +7,7 @@
 
 - 🔭 Je travaille actuellement sur [ShopFlow](https://github.com/lux-26/ShopFlow.git)
 
-- 🌱 Je suis actuellement Apprentissage de **MongoDB, Node.js, Express et Mongoose & MongoDB vs NodeJS**
+- 🌱 Je suis actuellement en train d'apprendre MongoDB, Node.js, Express et Mongoose.
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/lux-26](https://github.com/lux-26)
 
