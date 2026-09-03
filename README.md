@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lux-26" alt="lux-26" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [VibeFlix](https://lux-26.github.io/vibeflix-app)
+- 🔭 Je travaille actuellement sur [ShopFlow](https://github.com/lux-26/ShopFlow.git)
 
-- 🌱 J'apprends actuellement **Next.js, TypeScript, Node.js et MongoDB**
+- 🌱 Je suis actuellement Apprentissage de **MongoDB, Node.js, Express et Mongoose & MongoDB vs NodeJS**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/lux-26](https://github.com/lux-26)
 
-- 💬 Posez-moi des questions sur **React, TypeScript, Node.js et MongoDB**
+- 💬 Posez-moi des questions sur **React, Next, TypeScript et MongoDB**
 
 - 📫 Comment me contacter : **tambaablaye09@gmail.com**
 
