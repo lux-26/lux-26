@@ -10,15 +10,15 @@
 ---
 
 ### <i class="fa-solid fa-user-gear"></i> À propos de moi
-- <i class="fa-solid fa-laptop-code"></i> Je travaille actuellement sur **[ShopFlow](https://github.com/lux-26/ShopFlow.git)**[cite: 1].
+- <i class="fa-solid fa-laptop-code"></i> Je travaille actuellement sur **[ShopFlow](https://github.com/lux-26/ShopFlow.git)**
 
-- <i class="fa-solid fa-seedling"></i> J'apprends activement **Next.js, TypeScript, Node.js et MongoDB**[cite: 1].
+- <i class="fa-solid fa-seedling"></i> J'apprends activement **Next.js, TypeScript, Node.js et MongoDB**
 
-- <i class="fa-solid fa-comments"></i> Discutons de **React, TypeScript, Node.js et MongoDB**[cite: 1].
+- <i class="fa-solid fa-comments"></i> Discutons de **React, TypeScript, Node.js et MongoDB**
 
-- <i class="fa-solid fa-code-branch"></i> Retrouvez tous mes projets sur [mon profil GitHub](https://github.com/lux-26)[cite: 1].
+- <i class="fa-solid fa-code-branch"></i> Retrouvez tous mes projets sur [mon profil GitHub](https://github.com/lux-26)
 
-- <i class="fa-solid fa-bolt"></i> Anecdote : *Je pense que je suis drôle.*[cite: 1]
+- <i class="fa-solid fa-bolt"></i> Anecdote : *Je pense que je suis drôle.*
 
 ---
 
