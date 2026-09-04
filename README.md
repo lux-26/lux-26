@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Ablaye Tamba - lux</h1>
-<h3 align="center">Développeur full-stack passionné du Sénégal</h3>
+<h3 align="center">Développeur Fullstack MERN du Sénégal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lux-26&label=Profile%20views&color=0e75b6&style=flat" alt="lux-26" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 Je travaille actuellement sur [ShopFlow](https://github.com/lux-26/ShopFlow.git)
 
-- 🌱 Je suis actuellement en train d'apprendre MongoDB, Node.js, Express et Mongoose.
+- 🌱 Je suis actuellement Apprentissage de **MongoDB, Node.js, Express et Mongoose & MongoDB vs NodeJS**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/lux-26](https://github.com/lux-26)
 
