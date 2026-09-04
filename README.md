@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 À propos de moi
+###  À propos de moi
 - 🔭 Je travaille actuellement sur **[ShopFlow](https://github.com/lux-26/ShopFlow.git)**.
 - 🌱 J'apprends activement **Next.js, TypeScript, Node.js et MongoDB**.
 - 💬 Discutons de **React, TypeScript, Node.js et MongoDB**.
