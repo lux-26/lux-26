@@ -9,16 +9,16 @@
 
 ---
 
-### <i class="fa-solid fa-user-gear"></i> À propos de moi
-- <i class="fa-solid fa-laptop-code"></i> Je travaille actuellement sur **[ShopFlow](https://github.com/lux-26/ShopFlow.git)**[cite: 1].
-- <i class="fa-solid fa-seedling"></i> J'apprends activement **Next.js, TypeScript, Node.js et MongoDB**[cite: 1].
-- <i class="fa-solid fa-comments"></i> Discutons de **React, TypeScript, Node.js et MongoDB**[cite: 1].
-- <i class="fa-solid fa-code-branch"></i> Retrouvez tous mes projets sur [mon profil GitHub](https://github.com/lux-26)[cite: 1].
-- <i class="fa-solid fa-bolt"></i> Anecdote : *Je pense que je suis drôle.*[cite: 1]
+### À propos de moi
+- Travaux en cours : **[ShopFlow](https://github.com/lux-26/ShopFlow.git)**
+- Apprentissage actuel : **Next.js, TypeScript, Node.js et MongoDB**
+- Domaines d'échange : **React, TypeScript, Node.js et MongoDB**
+- Répertoire des projets : [Mon profil GitHub](https://github.com/lux-26)
+- Anecdote : *Je pense que je suis drôle.*
 
 ---
 
-### <i class="fa-solid fa-layer-group"></i> Stack Technique
+### Stack Technique
 
 **Langages & Bases :**
 <p>
@@ -53,7 +53,7 @@
 
 ---
 
-### <i class="fa-solid fa-chart-line"></i> Activité GitHub
+### Activité GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lux-26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -61,6 +61,6 @@
 
 ---
 
-### <i class="fa-solid fa-address-book"></i> Contact
-- <i class="fa-solid fa-envelope"></i> Email professionnel : **tambaablaye09@gmail.com**[cite: 1]
-- <i class="fa-brands fa-github"></i> GitHub : **[@lux-26](https://github.com/lux-26)**[cite: 1]
+### Contact
+- Email professionnel : **tambaablaye09@gmail.com**
+- GitHub : **[@lux-26](https://github.com/lux-26)**
