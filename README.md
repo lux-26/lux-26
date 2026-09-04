@@ -1,20 +1,21 @@
 <div align="center">
 
-# `Ablaye Tamba - lux-26`
-### `Développeur Full-Stack MERN` • `Basé au Sénégal`
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Salut%2C+je+suis+Ablaye+Tamba;Développeur+Full-Stack+MERN;Basé+au+Sénégal" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=lux-26&label=Vues%20du%20profil&color=0e75b6&style=flat-square" alt="Profile views" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=lux-26&label=Vues%20du%20profil&color=38BDF8&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
 ### À propos de moi
-- **Projet en cours** : `ShopFlow` ([Lien du dépôt](https://github.com/lux-26/ShopFlow.git))
-- **Apprentissage** : `Next.js` • `TypeScript` • `Node.js` • `MongoDB`
-- **Centres d'intérêt** : `React` • `TypeScript` • `Node.js` • `MongoDB`
-- **Portfolio** : [Mon profil GitHub](https://github.com/lux-26)
-- **Bio** : *Je pense que je suis drôle.*
+- **Projet en cours :** [ShopFlow](https://github.com/lux-26/ShopFlow.git)
+- **Apprentissage actuel :** Next.js, TypeScript, Node.js et MongoDB
+- **Centres d'intérêt :** React, TypeScript, Node.js et MongoDB
+- **Portfolio :** [Mon profil GitHub](https://github.com/lux-26)
+- **Anecdote :** *Je pense que je suis drôle.*
 
 ---
 
@@ -62,5 +63,5 @@
 ---
 
 ### Contact
-- Email professionnel : `tambaablaye09@gmail.com`
+- Email professionnel : tambaablaye09@gmail.com
 - GitHub : [@lux-26](https://github.com/lux-26)
