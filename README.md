@@ -1,7 +1,7 @@
 <div align="center">
 
-# Salut, je suis Ablaye Tamba
-### Développeur Full-Stack MERN | Basé au Sénégal
+# `Ablaye Tamba - lux-26`
+### `Développeur Full-Stack MERN` • `Basé au Sénégal`
 
 <img src="https://komarev.com/ghpvc/?username=lux-26&label=Vues%20du%20profil&color=0e75b6&style=flat-square" alt="Profile views" />
 
@@ -10,11 +10,11 @@
 ---
 
 ### À propos de moi
-- Travaux en cours : **[ShopFlow](https://github.com/lux-26/ShopFlow.git)**
-- Apprentissage actuel : **Next.js, TypeScript, Node.js et MongoDB**
-- Domaines d'échange : **React, TypeScript, Node.js et MongoDB**
-- Répertoire des projets : [Mon profil GitHub](https://github.com/lux-26)
-- Anecdote : *Je pense que je suis drôle.*
+- **Projet en cours** : `ShopFlow` ([Lien du dépôt](https://github.com/lux-26/ShopFlow.git))
+- **Apprentissage** : `Next.js` • `TypeScript` • `Node.js` • `MongoDB`
+- **Centres d'intérêt** : `React` • `TypeScript` • `Node.js` • `MongoDB`
+- **Portfolio** : [Mon profil GitHub](https://github.com/lux-26)
+- **Bio** : *Je pense que je suis drôle.*
 
 ---
 
@@ -62,5 +62,5 @@
 ---
 
 ### Contact
-- Email professionnel : **tambaablaye09@gmail.com**
-- GitHub : **[@lux-26](https://github.com/lux-26)**
+- Email professionnel : `tambaablaye09@gmail.com`
+- GitHub : [@lux-26](https://github.com/lux-26)
