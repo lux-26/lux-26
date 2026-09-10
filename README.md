@@ -1,16 +1,19 @@
 <div align="center">
 
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=40&lines=Salut%2C+je+suis+Ablaye+Tamba" alt="Typing SVG" />
-  <br>
-  <span style="font-family: 'Segoe UI', sans-serif; font-size: 15px; color: #94A3B8; font-weight: 500;">
-    Développeur Full-Stack MERN (JS, TS, React, Next, Node) — Spécialisé dans la conception d'applications web modernes et évolutives.
-  </span>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Salut%2C+je+suis+Ablaye+Tamba" alt="Typing Ablaye Tamba" />
+
 <br>
 
+<h3 style="color: #E2E8F0; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  Développeur Full-Stack MERN (JS, TS, React, Next, Node)
+</h3>
+<p style="color: #94A3B8; font-size: 16px; max-width: 600px; margin: auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  Spécialisé dans la conception d'applications web modernes et évolutives.
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=lux-26&label=Vues%20du%20profil&color=38BDF8&style=flat-square" alt="Profile views" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=VOTRE_NOM_UTILISATEUR&label=Vues+du+profil&color=0e75b6&style=flat" alt="Profil Views" />
 
 </div>
 
