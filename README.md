@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Salut%2C+je+suis+Ablaye+Tamba;Développeur+Full-Stack+MERN+(+JS+TS+REACT+NEXT+Node+);+JBasé+au+Sénégal" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Salut%2C+je+suis+Ablaye+Tamba;Développeur+Full-Stack+MERN+%28JS%2C+TS%2C+React%2C+Next%2C+Node%2C+spécialisé+dans+la+conception+d%27applications+web+modernes+et+évolutives" alt="Typing SVG" />
 
 <br>
 
