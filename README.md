@@ -68,4 +68,3 @@
 <div align="center">
 <sub>Ouvert aux opportunités de stage et de premier poste en développement Full-Stack.</sub>
 </div>
-
