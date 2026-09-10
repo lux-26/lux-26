@@ -71,25 +71,17 @@ Application e-commerce moderne conçue pour offrir une expérience fluide aux ut
 **Technologies utilisées :** React · Node.js · Express · MongoDB
 
 ---
-## Statistiques GitHub
+## 📊 Statistiques & Activité
 
 <div align="center">
 
-<a href="https://github.com/lux-26?tab=repositories">
-  <img src="https://img.shields.io/badge/Dépôts-GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Dépôts GitHub" />
-</a>
-<a href="https://github.com/lux-26">
-  <img src="https://img.shields.io/github/followers/lux-26?style=for-the-badge&logo=github&label=Abonnés" alt="Abonnés GitHub" />
-</a>
-<a href="https://github.com/lux-26">
-  <img src="https://komarev.com/ghpvc/?username=lux-26&style=for-the-badge&label=Visites&color=0EA5E9" alt="Visites du profil" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/lux-26?tab=overview">
-  <b>Voir mon activité GitHub →</b>
-</a>
+  <a href="https://github.com/lux-26">
+    <img src="https://github-readme-stats.vercel.app/api?username=lux-26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub d'Ablaye" />
+  </a>
+  
+  <a href="https://github.com/lux-26">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lux-26&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+  </a>
 
 </div>
 ## Me contacter
