@@ -33,7 +33,7 @@
 - 💻 Actuellement en formation **Développeur Web Full Stack / React-Node.js** chez GoMyCode
 - 🚀 Projet en cours : **[ShopFlow](https://github.com/lux-26/ShopFlow)** — une application e-commerce
 - 📚 Apprentissage actuel : Next.js, TypeScript, Node.js et MongoDB
-- 🌍 Basé à Saint-Louis, Sénégal
+- 🌍 Basé à Dakar, Sénégal
 - 🗣️ Français, Anglais, Wolof
 - 🎨 Bagage en design graphique (stage Graphiste Designer chez Inprocess), un atout pour construire des interfaces soignées
 
