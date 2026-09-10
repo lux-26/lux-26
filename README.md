@@ -80,6 +80,7 @@ Application e-commerce moderne conçue pour offrir une expérience fluide aux ut
 
 </div>
 </div>
+
 ## Me contacter
 
 Si vous souhaitez échanger autour d'un projet, d'une opportunité ou du développement web :
