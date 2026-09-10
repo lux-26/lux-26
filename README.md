@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=60&lines=Bonjour%2C+je+suis+Ablaye+Tamba+%F0%9F%91%8B" alt="Typing Bonjour Ablaye" />
 
-  ### Développeur Full-Stack MERN
+### Développeur Full-Stack MERN
 
 Je transforme des idées en applications web modernes, intuitives et performantes.
 
@@ -27,11 +27,9 @@ Je transforme des idées en applications web modernes, intuitives et performante
 
 ## À propos de moi
 
-
 <p style="font-size: 16px; max-width: 700px; line-height: 1.6;">
   Développeur Full-Stack basé à <b>Dakar, Sénégal</b>, spécialisé dans la conception d'applications web robustes et évolutives, de l'expérience utilisateur jusqu'à l'architecture des API.
 </p>
-
 
 ---
 
@@ -40,14 +38,14 @@ Je transforme des idées en applications web modernes, intuitives et performante
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4> Formation & Diplômes</h4>
+      <h4>🎓 Formation & Diplômes</h4>
       <ul>
         <li><b>Licence en Infographie</b><br/>Université Gaston Berger de Saint-Louis</li>
         <li><b>Développeur Web Full-Stack</b><br/>Formation React / Node.js — GoMyCode</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4> En ce moment</h4>
+      <h4>🚀 En ce moment</h4>
       <ul>
         <li><b>Projet actif :</b> <a href="https://github.com/lux-26/ShopFlow">ShopFlow</a> (E-commerce MERN)</li>
         <li><b>Veille & Apprentissage :</b> Next.js, TypeScript, Node.js & MongoDB</li>
@@ -56,14 +54,14 @@ Je transforme des idées en applications web modernes, intuitives et performante
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4> Expérience & Design</h4>
+      <h4>🎨 Expérience & Design</h4>
       <ul>
         <li><b>Design Graphique :</b> Expérience passée chez Inprocess</li>
         <li><b>Langues :</b> Français · Anglais · Wolof</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4> Objectif professionnel</h4>
+      <h4>🎯 Objectif professionnel</h4>
       <ul>
         <li><b>Statut :</b> Ouvert aux opportunités et stages junior en développement Full-Stack</li>
       </ul>
@@ -72,7 +70,6 @@ Je transforme des idées en applications web modernes, intuitives et performante
 </table>
 
 <br>
-
 
 ---
 
@@ -151,6 +148,7 @@ Je transforme des idées en applications web modernes, intuitives et performante
 </table>
 
 ---
+
 ## Activité GitHub
 
 <div align="center">
@@ -160,18 +158,25 @@ Je transforme des idées en applications web modernes, intuitives et performante
   </a>
 
 </div>
-</div>
+
+---
 
 ## Me contacter
 
-Si vous souhaitez échanger autour d'un projet, d'une opportunité ou du développement web :
-
-- [tambaablaye09@gmail.com](mailto:tambaablaye09@gmail.com)
-- [github.com/lux-26](https://github.com/lux-26)
-
 <div align="center">
 
-<br />
+Si vous souhaitez échanger autour d'un projet, d'une opportunité ou du développement web :
+
+<br/>
+
+<a href="mailto:tambaablaye09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br /><br />
 
 > Construire des expériences numériques utiles, élégantes et accessibles.
 
