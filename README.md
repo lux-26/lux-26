@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=VOTRE_NOM_UTILISATEUR&label=Vues+du+profil&color=0e75b6&style=flat" alt="Profil Views" />
+<img src="https://komarev.com/ghpvc/?username=lux-26&label=Vues+du+profil&color=0e75b6&style=flat" alt="Profil Views" />
 
 </div>
 
