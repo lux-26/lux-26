@@ -71,22 +71,28 @@ Application e-commerce moderne conçue pour offrir une expérience fluide aux ut
 **Technologies utilisées :** React · Node.js · Express · MongoDB
 
 ---
-
 ## Statistiques GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lux-26&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0EA5E9&icon_color=0EA5E9" alt="GitHub statistics" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=lux-26&show_icons=true&hide_border=true&theme=transparent&title_color=0EA5E9&icon_color=0EA5E9"
+  alt="Statistiques GitHub"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lux-26&layout=compact&hide_border=true&theme=transparent&title_color=0EA5E9" alt="Top languages" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lux-26&layout=compact&hide_border=true&theme=transparent&title_color=0EA5E9"
+  alt="Langages les plus utilisés"
+/>
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=lux-26&hide_border=true&theme=transparent&ring=0EA5E9&fire=F97316&currStreakLabel=0EA5E9" alt="GitHub streak" />
+<img
+  src="https://streak-stats.demolab.com/?user=lux-26&hide_border=true&theme=transparent&ring=0EA5E9&fire=F97316&currStreakLabel=0EA5E9"
+  alt="Activité GitHub"
+/>
 
 </div>
-
----
 
 ## Me contacter
 
