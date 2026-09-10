@@ -71,18 +71,15 @@ Application e-commerce moderne conçue pour offrir une expérience fluide aux ut
 **Technologies utilisées :** React · Node.js · Express · MongoDB
 
 ---
-## 📊 Statistiques & Activité
+## 📈 Activité GitHub
 
 <div align="center">
 
   <a href="https://github.com/lux-26">
-    <img src="https://github-readme-stats.vercel.app/api?username=lux-26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub d'Ablaye" />
-  </a>
-  
-  <a href="https://github.com/lux-26">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lux-26&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lux-26&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
   </a>
 
+</div>
 </div>
 ## Me contacter
 
