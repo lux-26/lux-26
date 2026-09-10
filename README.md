@@ -98,13 +98,42 @@ Je transforme des idées en applications web modernes, intuitives et performante
 
 ---
 
-## Projet en vedette
+## 🚀 Projets en vedette
 
-### [ShopFlow](https://github.com/lux-26/ShopFlow)
-
-Application e-commerce moderne conçue pour offrir une expérience fluide aux utilisateurs et une gestion efficace des produits, commandes et comptes clients.
-
-**Technologies utilisées :** React · Node.js · Express · MongoDB
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lux-26/ShopFlow">ShopFlow</a></h3>
+      <p>Application e-commerce moderne conçue pour offrir une expérience fluide aux utilisateurs et une gestion efficace des produits, commandes et comptes clients.</p>
+      <p><b>Technologies :</b><br/>
+        <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lux-26/AIRCAR">AIRCAR</a></h3>
+      <p>Plateforme de location de véhicules avec une interface utilisateur dynamique, un système de réservation optimisé et un design responsive.</p>
+      <p><b>Technologies :</b><br/>
+        <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Tailwind</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lux-26/VibeFlix">VibeFlix</a></h3>
+      <p>Application web de catalogue de films et de séries permettant de rechercher, filtrer et découvrir des contenus populaires en temps réel.</p>
+      <p><b>Technologies :</b><br/>
+        <code>JavaScript</code> <code>API REST</code> <code>CSS3</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/lux-26">Projet Futur / En cours</a></h3>
+      <p>Espace réservé pour votre prochain projet Full-Stack avec intégration d'intelligence artificielle ou architectures avancées.</p>
+      <p><b>Technologies :</b><br/>
+        <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 ## 📈 Activité GitHub
