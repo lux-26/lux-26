@@ -1,21 +1,22 @@
 <div align="center">
 
-# Bonjour, je suis Ablaye Tamba 👋
+# Ablaye Tamba
 
 ### Développeur Full-Stack MERN
 
-Je transforme des idées en applications web modernes, intuitives et performantes.
+Je conçois des applications web modernes, intuitives et performantes —
+de l'interface jusqu'à l'API.
 
 <br />
 
 <a href="mailto:tambaablaye09@gmail.com">
-  <img src="https://img.shields.io/badge/Me_contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Me_contacter-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/lux-26">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://github.com/lux-26?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio_de_projets-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  <img src="https://img.shields.io/badge/Projets-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Projets" />
 </a>
 
 <br /><br />
@@ -24,81 +25,82 @@ Je transforme des idées en applications web modernes, intuitives et performante
 
 </div>
 
----
+<br />
 
-## À propos de moi
+## Profil
 
-Je suis un développeur web basé à **Dakar, Sénégal**, spécialisé dans la création d'applications web complètes, de l'interface utilisateur jusqu'à l'API.
+Développeur web basé à Dakar, Sénégal, je construis des applications full-stack
+en associant rigueur technique et sensibilité design — héritée de ma formation
+en infographie.
 
-- 🎓 Licence en Infographie — Université Gaston Berger de Saint-Louis
-- 💻 Formation Développeur Web Full-Stack React / Node.js chez GoMyCode
-- 🚀 Projet actuel : [ShopFlow](https://github.com/lux-26/ShopFlow), une application e-commerce
-- 📚 Actuellement en apprentissage de Next.js, TypeScript, Node.js et MongoDB
-- 🎨 Expérience en design graphique chez Inprocess
-- 🌍 Français · Anglais · Wolof
-- 🎯 Ouvert aux stages et opportunités junior en développement Full-Stack
+&nbsp;&nbsp;🎓&nbsp;&nbsp;Licence en Infographie — Université Gaston Berger de Saint-Louis
+&nbsp;&nbsp;💻&nbsp;&nbsp;Formation Développeur Web Full-Stack React / Node.js — GoMyCode
+&nbsp;&nbsp;📚&nbsp;&nbsp;En apprentissage : Next.js, TypeScript, Node.js, MongoDB
+&nbsp;&nbsp;🎨&nbsp;&nbsp;Expérience en design graphique — stage chez Inprocess
+&nbsp;&nbsp;🌍&nbsp;&nbsp;Français · Anglais · Wolof
+&nbsp;&nbsp;🎯&nbsp;&nbsp;Ouvert aux stages et postes juniors en développement Full-Stack
 
----
+<br />
 
-## Technologies
+## Stack technique
 
-### Front-end
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap" alt="Frontend technologies" />
-</p>
+**Front-end**
+<br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap" alt="Frontend" />
 
-### Back-end & bases de données
+</td>
+<td valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend technologies" />
-</p>
+**Back-end & données**
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend" />
 
-### Outils & design
+</td>
+<td valign="top" width="33%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vite,figma,illustrator,photoshop" alt="Tools and design technologies" />
-</p>
+**Outils & design**
+<br />
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vite,figma,illustrator,photoshop" alt="Tools" />
 
----
+</td>
+</tr>
+</table>
+
+<br />
 
 ## Projet en vedette
 
-### [ShopFlow](https://github.com/lux-26/ShopFlow)
+**[ShopFlow](https://github.com/lux-26/ShopFlow)** — Application e-commerce
+pensée pour une expérience utilisateur fluide, avec gestion des produits, des
+commandes et des comptes clients.
 
-Application e-commerce moderne conçue pour offrir une expérience fluide aux utilisateurs et une gestion efficace des produits, commandes et comptes clients.
-
-**Technologies utilisées :** React · Node.js · Express · MongoDB
-
----
-
-## Statistiques GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lux-26&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0EA5E9&icon_color=0EA5E9" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lux-26&layout=compact&hide_border=true&theme=transparent&title_color=0EA5E9" alt="Top languages" />
+`React` · `Node.js` · `Express` · `MongoDB`
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=lux-26&hide_border=true&theme=transparent&ring=0EA5E9&fire=F97316&currStreakLabel=0EA5E9" alt="GitHub streak" />
+## Statistiques
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lux-26&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0EA5E9&icon_color=0EA5E9&text_color=94A3B8" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lux-26&layout=compact&hide_border=true&theme=transparent&title_color=0EA5E9&text_color=94A3B8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=lux-26&hide_border=true&theme=transparent&ring=0EA5E9&fire=F97316&currStreakLabel=0EA5E9&background=00000000" alt="GitHub streak" />
 
 </div>
 
+<br />
+
 ---
-
-## Me contacter
-
-Si vous souhaitez échanger autour d'un projet, d'une opportunité ou du développement web :
-
-- 📧 [tambaablaye09@gmail.com](mailto:tambaablaye09@gmail.com)
-- 💼 [github.com/lux-26](https://github.com/lux-26)
 
 <div align="center">
 
-<br />
+**Contact** · [tambaablaye09@gmail.com](mailto:tambaablaye09@gmail.com) · [github.com/lux-26](https://github.com/lux-26)
 
-> Construire des expériences numériques utiles, élégantes et accessibles.
+<sub>Construire des expériences numériques utiles, élégantes et accessibles.</sub>
 
 </div>
