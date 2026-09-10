@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=700&size=34&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Bonjour%2C+je+suis+Ablaye+Tamba+%F0%9F%91%8B" alt="Typing Bonjour Ablaye" />
-### Développeur Full-Stack MERN
+
+  ### Développeur Full-Stack MERN
 
 Je transforme des idées en applications web modernes, intuitives et performantes.
 
