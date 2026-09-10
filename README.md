@@ -30,10 +30,48 @@ Je transforme des idées en applications web modernes, intuitives et performante
 <div align="center">
 
 <p style="font-size: 16px; max-width: 700px; line-height: 1.6;">
-  Je suis un développeur web basé à <b>Dakar, Sénégal</b>, spécialisé dans la création d'applications web complètes, de l'interface utilisateur jusqu'à l'API.
+  Développeur Full-Stack basé à <b>Dakar, Sénégal</b>, spécialisé dans la conception d'applications web robustes et évolutives, de l'expérience utilisateur jusqu'à l'architecture des API.
 </p>
 
 </div>
+
+---
+
+### 💼 Profil & Parcours
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Formation & Diplômes</h4>
+      <ul>
+        <li><b>Licence en Infographie</b><br/>Université Gaston Berger de Saint-Louis</li>
+        <li><b>Développeur Web Full-Stack</b><br/>Formation React / Node.js — GoMyCode</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 En ce moment</h4>
+      <ul>
+        <li><b>Projet actif :</b> <a href="https://github.com/lux-26/ShopFlow">ShopFlow</a> (E-commerce MERN)</li>
+        <li><b>Veille & Apprentissage :</b> Next.js, TypeScript, Node.js & MongoDB</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎨 Expérience & Design</h4>
+      <ul>
+        <li><b>Design Graphique :</b> Expérience passée chez Inprocess</li>
+        <li><b>Langues :</b> Français · Anglais · Wolof</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 Objectif professionnel</h4>
+      <ul>
+        <li><b>Statut :</b> Ouvert aux opportunités et stages junior en développement Full-Stack</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
