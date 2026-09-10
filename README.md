@@ -78,23 +78,20 @@ Application e-commerce moderne conçue pour offrir une expérience fluide aux ut
 <a href="https://github.com/lux-26?tab=repositories">
   <img src="https://img.shields.io/badge/Dépôts-GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Dépôts GitHub" />
 </a>
-
 <a href="https://github.com/lux-26">
   <img src="https://img.shields.io/github/followers/lux-26?style=for-the-badge&logo=github&label=Abonnés" alt="Abonnés GitHub" />
 </a>
-
 <a href="https://github.com/lux-26">
-  <img src="https://komarev.com/ghpvc/?username=lux-26&style=for-the-badge&label=Visites" alt="Visites du profil" />
+  <img src="https://komarev.com/ghpvc/?username=lux-26&style=for-the-badge&label=Visites&color=0EA5E9" alt="Visites du profil" />
 </a>
 
-<br /><br />
+<br><br>
 
-<a href="https://github.com/lux-26?tab=overview&from=2025-01-01&to=2025-12-31">
-  Voir mon activité GitHub →
+<a href="https://github.com/lux-26?tab=overview">
+  <b>Voir mon activité GitHub →</b>
 </a>
 
 </div>
-
 ## Me contacter
 
 Si vous souhaitez échanger autour d'un projet, d'une opportunité ou du développement web :
