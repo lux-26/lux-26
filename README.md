@@ -27,13 +27,11 @@ Je transforme des idées en applications web modernes, intuitives et performante
 
 ## À propos de moi
 
-<div align="center">
 
 <p style="font-size: 16px; max-width: 700px; line-height: 1.6;">
   Développeur Full-Stack basé à <b>Dakar, Sénégal</b>, spécialisé dans la conception d'applications web robustes et évolutives, de l'expérience utilisateur jusqu'à l'architecture des API.
 </p>
 
-</div>
 
 ---
 
@@ -75,13 +73,6 @@ Je transforme des idées en applications web modernes, intuitives et performante
 
 <br>
 
-- 🎓 **Licence en Infographie** — Université Gaston Berger de Saint-Louis
-- 💻 **Formation Développeur Web Full-Stack** React / Node.js chez GoMyCode
-- 🚀 **Projet actuel** : [ShopFlow](https://github.com/lux-26/ShopFlow), une application e-commerce moderne
-- 📚 **Apprentissage en cours** : Next.js, TypeScript, Node.js et MongoDB
-- 🎨 **Expérience en design graphique** chez Inprocess
-- 🌍 **Langues** : Français · Anglais · Wolof
-- 🎯 **Opportunités** : Ouvert aux stages et opportunités junior en développement Full-Stack
 
 ---
 
