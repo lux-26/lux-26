@@ -75,22 +75,23 @@ Application e-commerce moderne conçue pour offrir une expérience fluide aux ut
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=lux-26&show_icons=true&hide_border=true&theme=transparent&title_color=0EA5E9&icon_color=0EA5E9"
-  alt="Statistiques GitHub"
-/>
+<a href="https://github.com/lux-26?tab=repositories">
+  <img src="https://img.shields.io/badge/Dépôts-GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Dépôts GitHub" />
+</a>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lux-26&layout=compact&hide_border=true&theme=transparent&title_color=0EA5E9"
-  alt="Langages les plus utilisés"
-/>
+<a href="https://github.com/lux-26">
+  <img src="https://img.shields.io/github/followers/lux-26?style=for-the-badge&logo=github&label=Abonnés" alt="Abonnés GitHub" />
+</a>
 
-<br />
+<a href="https://github.com/lux-26">
+  <img src="https://komarev.com/ghpvc/?username=lux-26&style=for-the-badge&label=Visites" alt="Visites du profil" />
+</a>
 
-<img
-  src="https://streak-stats.demolab.com/?user=lux-26&hide_border=true&theme=transparent&ring=0EA5E9&fire=F97316&currStreakLabel=0EA5E9"
-  alt="Activité GitHub"
-/>
+<br /><br />
+
+<a href="https://github.com/lux-26?tab=overview&from=2025-01-01&to=2025-12-31">
+  Voir mon activité GitHub →
+</a>
 
 </div>
 
