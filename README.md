@@ -1,36 +1,48 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=Salut%2C+je+suis+Ablaye+Tamba" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=Salut%2C+je+suis+Ablaye+Tamba;D%C3%A9veloppeur+Full-Stack+MERN" alt="Typing SVG" />
 
 <br>
 
-<h3 style="color: #E2E8F0; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
-  Développeur Full-Stack MERN (JS, TS, React, Next, Node)
-</h3>
-<p style="color: #94A3B8; font-size: 16px; max-width: 600px; margin: auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
-  Spécialisé dans la conception d'applications web modernes et évolutives.
+<h3>Développeur Full-Stack MERN (JavaScript, TypeScript, React, Next.js, Node.js)</h3>
+<p>
+  Je conçois des applications web modernes, performantes et évolutives,<br>
+  de l'interface utilisateur jusqu'à l'API.
 </p>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=lux-26&label=Vues+du+profil&color=0e75b6&style=flat" alt="Profil Views" />
 
+<br><br>
+
+<a href="mailto:tambaablaye09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/lux-26">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
 </div>
 
 ---
 
-### À propos de moi
-- **Projet en cours :** [ShopFlow](https://github.com/lux-26/ShopFlow.git)
-- **Apprentissage actuel :** Next.js, TypeScript, Node.js et MongoDB
-- **Centres d'intérêt :** React, TypeScript, Node.js et MongoDB
-- **Portfolio :** [Mon profil GitHub](https://github.com/lux-26)
-- **Anecdote :** *Je pense que je suis drôle.*
+### 👋 À propos de moi
+
+- 🎓 Licence en Infographie — Université Gaston Berger de Saint-Louis
+- 💻 Actuellement en formation **Développeur Web Full Stack / React-Node.js** chez GoMyCode
+- 🚀 Projet en cours : **[ShopFlow](https://github.com/lux-26/ShopFlow)** — une application e-commerce
+- 📚 Apprentissage actuel : Next.js, TypeScript, Node.js et MongoDB
+- 🌍 Basé à Saint-Louis, Sénégal
+- 🗣️ Français, Anglais, Wolof
+- 🎨 Bagage en design graphique (stage Graphiste Designer chez Inprocess), un atout pour construire des interfaces soignées
 
 ---
 
-### Stack Technique
+### 🛠️ Stack technique
 
-**Langages & Bases :**
+**Langages & Bases de données**
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -40,7 +52,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-**Frameworks & Bibliothèques :**
+**Frameworks & Bibliothèques**
+
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -50,10 +63,12 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-**Outils & Environnement :**
+**Outils & Environnement**
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
@@ -63,14 +78,20 @@
 
 ---
 
-### Activité GitHub
+### 📊 Activité GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lux-26&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lux-26&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" />
 </p>
 
 ---
 
-### Contact
-- Email professionnel : tambaablaye09@gmail.com
-- GitHub : [@lux-26](https://github.com/lux-26)
+### 📬 Me contacter
+
+- 📧 **Email :** [tambaablaye09@gmail.com](mailto:tambaablaye09@gmail.com)
+- 💼 **GitHub :** [@lux-26](https://github.com/lux-26)
+
+<div align="center">
+<sub>Ouvert aux opportunités de stage et de premier poste en développement Full-Stack.</sub>
+</div>
