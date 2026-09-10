@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Salut%2C+je+suis+Ablaye+Tamba" alt="Typing Ablaye Tamba" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=Salut%2C+je+suis+Ablaye+Tamba" alt="Typing SVG" />
 
 <br>
 
