@@ -48,7 +48,7 @@ Je transforme des idées en applications web modernes, intuitives et performante
       <h4>🚀 En ce moment</h4>
       <ul>
         <li><b>Projet actif :</b> <a href="https://github.com/lux-26">AI Learning App</a> (Assistant d'apprentissage MERN & IA)</li>
-        <li><b>Veille & Apprentissage :</b> Next.js, TypeScript, Node.js & MongoDB</li>
+        <li><b>Veille & Apprentissage :</b> React.js, Express.js Node.js & MongoDB</li>
       </ul>
     </td>
   </tr>
