@@ -47,7 +47,7 @@ Je transforme des idées en applications web modernes, intuitives et performante
     <td width="50%" valign="top">
       <h4>🚀 En ce moment</h4>
       <ul>
-        <li><b>Projet actif :</b> <a href="https://github.com/lux-26/ShopFlow">ShopFlow</a> (E-commerce MERN)</li>
+        <li><b>Projet actif :</b> <a href="https://github.com/lux-26">AI Learning App</a> (Assistant d'apprentissage MERN & IA)</li>
         <li><b>Veille & Apprentissage :</b> Next.js, TypeScript, Node.js & MongoDB</li>
       </ul>
     </td>
@@ -115,12 +115,21 @@ Je transforme des idées en applications web modernes, intuitives et performante
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/lux-26">AI Learning App</a></h3>
+      <p>Assistant d'apprentissage intelligent intégrant Google Gemini pour la génération de quiz, de cartes mémoire, le résumé de documents et l'assistance d'étude interactive.</p>
+      <p><b>Technologies :</b><br/>
+        <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Gemini API</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/lux-26/ShopFlow">ShopFlow</a></h3>
       <p>Application e-commerce moderne conçue pour offrir une expérience fluide aux utilisateurs et une gestion efficace des produits, commandes et comptes clients.</p>
       <p><b>Technologies :</b><br/>
         <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/lux-26/AIRCAR">AIRCAR</a></h3>
       <p>Plateforme de location de véhicules avec une interface utilisateur dynamique, un système de réservation optimisé et un design responsive.</p>
@@ -128,20 +137,11 @@ Je transforme des idées en applications web modernes, intuitives et performante
         <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Tailwind</code>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/lux-26/VibeFlix">VibeFlix</a></h3>
       <p>Application web de catalogue de films et de séries permettant de rechercher, filtrer et découvrir des contenus populaires en temps réel.</p>
       <p><b>Technologies :</b><br/>
         <code>JavaScript</code> <code>API REST</code> <code>CSS3</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/lux-26">Projet Futur / En cours</a></h3>
-      <p>Espace réservé pour votre prochain projet Full-Stack avec intégration d'intelligence artificielle ou architectures avancées.</p>
-      <p><b>Technologies :</b><br/>
-        <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code>
       </p>
     </td>
   </tr>
